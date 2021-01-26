@@ -1,9 +1,8 @@
-baseURL = "https://example.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "A Hugo theme for creating Reveal.js presentations"
 disableKinds = ["sitemap", "RSS"]
-theme = "."
-themesDir = "../"
+theme = "reveal-hugo"
 
 # uncomment for browsing at file:///
 # relativeURLs = true
@@ -29,7 +28,13 @@ mediaType = "text/html"
 isHTML = true
 
 [params.reveal_hugo]
+#theme= "moon"
+#custom_theme = "reveal-hugo/themes/robot-lung.css"
+#custom_theme_compile = true
+
 history = true
+slide_number = true
+transition_speed = 'fast'
 
 # used in content/template-example
 [params.reveal_hugo.templates.grey]
