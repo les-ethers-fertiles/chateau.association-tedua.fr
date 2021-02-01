@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "A Hugo theme for creating Reveal.js presentations"
+title = "Le Château. Tiers-lieu habité et Laboratoire de création culturelle : pour accueillir le monde entier. Porté par l'association Tedua et ..."
 disableKinds = ["sitemap", "RSS"]
 theme = "reveal-hugo"
 
