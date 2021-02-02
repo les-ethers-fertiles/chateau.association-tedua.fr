@@ -1,5 +1,5 @@
 +++
-weight = 5
+weight = 60
 +++
 
 ### On s'est mis au travail à 11 pour réaliser ce projet.

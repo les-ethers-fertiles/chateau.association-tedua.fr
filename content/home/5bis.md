@@ -1,5 +1,5 @@
 +++
-weight = 4
+weight = 50
 +++
 
 {{% section %}}
@@ -17,7 +17,7 @@ weight = 4
 *"Déconceptualiser le vivre ensemble pour reconnaître que c'est déjà le cas."*  
 <br>
 
-*"Jouer nos divisions pour réaliser le vivant."*  
+*"Réunifier tout."*  
 
 ---
 
@@ -30,6 +30,13 @@ weight = 4
 ---
 
 ### Les absents parlent
+
+---
+
+### Qu'est-ce qu'on fait là?
+
+[Questions populaires liées au travail? et réponses rapides écrite par Habib]
+
 
 ---
 
