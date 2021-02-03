@@ -45,7 +45,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
     left: 0;
     top: 0;
     width: 100%;
-    height: 30px; }
+    height: 25px; }
     @media (max-width: 840px) {
       .line.top {
         height: 15px; } }
@@ -54,14 +54,14 @@ section.has-light-background, section.has-light-background h1, section.has-light
     top: auto;
     bottom: 0;
     width: 100%;
-    height: 30px; }
+    height: 25px; }
     @media (max-width: 840px) {
       .line.bottom {
         height: 15px; } }
   .line.left {
     left: 0;
     top: 0;
-    width: 30px;
+    width: 25px;
     height: 200%; }
     @media (max-width: 840px) {
       .line.left {
@@ -70,7 +70,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
     left: auto;
     right: 0;
     top: 0;
-    width: 30px;
+    width: 25px;
     height: 200%; }
     @media (max-width: 840px) {
       .line.right {
@@ -117,7 +117,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #141414;
+  color: #363636;
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   line-height: 1.2;
@@ -279,7 +279,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #FF4081;
+  color: #ef1515;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
@@ -321,14 +321,14 @@ body {
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls {
-  color: #FF4081; }
+  color: #ef1515; }
 
 /*********************************************
  * PROGRESS BAR
  *********************************************/
 .reveal .progress {
-  background: rgba(0, 0, 0, 0.2);
-  color: #FF4081; }
+  background: rgba(0, 0, 0, 0);
+  color: #ffffff; }
 
 .reveal .progress span {
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
@@ -337,4 +337,4 @@ body {
 
 .reveal .progress {
   z-index: 1000;
-  color: #FF80A1; }
+  color: #ef1515; }
