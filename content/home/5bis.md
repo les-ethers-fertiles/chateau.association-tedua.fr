@@ -30,7 +30,7 @@ Car il est possible d’affirmer que tous mouvements économiques ne se sont pro
 - "Soumis par l'écoute" | méthodologie de la pratique du jeu
 - "De l'enfance" | oeuvre
 - "Le clown et la fée" | spectacle
-- "Les absents parlent." | essai politique
+- "Les absents parlent." | essai 
 
 
 {{% /section %}}
