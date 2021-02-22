@@ -6,7 +6,7 @@ weight = 60
 
 
 
-### On s'est mis au travail à 9 pour réaliser ce projet.
+### On s'est mis au travail à 9 pour réaliser ce projet :
 
 <br>
 
@@ -16,7 +16,7 @@ weight = 60
 <br><br>
 - [«La mythologie du phare flottant»](https://www.zorozorai.land/#/la-comptabilite-des-plumes-et-des-cailloux_) | déc 2020
 <br><br>
-- [DIX+1 : «Rê-vers le Château»](https://hackmd.io/s/S1sl7VsCw) | fév 2021
+- [DIX+1 : «rê-vers le Château» [...]](https://hackmd.io/s/S1sl7VsCw) | fév 2021
 
 
 ---
@@ -132,21 +132,7 @@ weight = 60
 
 ---
 
-<br><br>
-
 ### Apparitions médiatiques
-
-<br><br>
-✔
-
----
-
-<br>
-
-##### Journal Sud-Ouest | 12 avril 2019
-
-<img src="/images/medias/11-leclownetlafee.jpg" alt="" width="400" height="auto">
-
 
 ---
 
@@ -157,7 +143,11 @@ weight = 60
 
 ---
 
-<p style="font-size:25px;"><a href="#/6"> [retour à "On s'est mis au travail..."] </a></p>
+<br>
+
+##### Journal Sud-Ouest | 12 avril 2019
+
+<img src="/images/medias/11-leclownetlafee.jpg" alt="" width="400" height="auto">
 
 
 {{% /section %}}
