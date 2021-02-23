@@ -21,7 +21,7 @@ weight = 60
 
 ---
 
-### Publications numériques
+### Publications numériques :
 
 ---
 
@@ -41,6 +41,16 @@ weight = 60
 
 <a href="https://blog.association-tedua.fr/" target=_blank>
 <img src="/images/medias/2-journaldebord.png" alt="" width="800" height="auto">
+</a>
+
+---
+
+<p style="color:blue">
+<a href="https://vimeo.com/search?q=association%20tedua" target=_blank><h5><u>Chaîne sur Vimeo.com > "association tedua" </u>
+</p>
+
+<a href="https://vimeo.com/search?q=association%20tedua" target=_blank>
+<img src="/images/medias/2bis-chainevideo.png" alt="" width="800" height="auto">
 </a>
 
 ---
@@ -95,7 +105,7 @@ weight = 60
 
 ---
 
-### Collaborations
+### Collaborations :
 
 ---
 
