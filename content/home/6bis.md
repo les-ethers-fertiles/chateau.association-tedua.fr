@@ -6,7 +6,7 @@ weight = 60
 
 
 
-### On s'est mis au travail à 9 pour réaliser ce projet :
+### Reportages des 4 premières résidences de travail : 
 
 <br>
 
@@ -14,14 +14,14 @@ weight = 60
 <br><br>
 - [NEUF+2 : «des bijoux pour Franca Rame et Dario Fo»](https://blog.association-tedua.fr/accueil/residence-de-l-artisan-icol-fin_nov_2020/)
 <br><br>
-- [«La mythologie du phare flottant»](https://www.zorozorai.land/#/la-comptabilite-des-plumes-et-des-cailloux_) | déc 2020
+- [«La mythologie du phare flottant»](https://www.zorozorai.land/#/la-comptabilite-des-plumes-et-des-cailloux) | déc 2020
 <br><br>
 - [DIX+1 : «rê-vers le Château» [...]](https://hackmd.io/s/S1sl7VsCw) | fév 2021
 
 
 ---
 
-### Publications numériques :
+### Nos publications numériques :
 
 ---
 
@@ -142,7 +142,7 @@ weight = 60
 
 ---
 
-### Apparitions médiatiques
+### Apparitions médiatiques :
 
 ---
 

@@ -4,9 +4,8 @@ weight = 15
 
 {{% section %}}
 
-
-### Deux lieux nous inspirent :
-
+### Origines.
+<p " style="font-size:60px;">Deux lieux nous inspirent :</p> 
 
 ---
 
@@ -30,7 +29,8 @@ Ils y créent, aux côtés des habitants, les conditions de la rencontre entre a
 <a href="https://www.youtube.com/watch?v=Rd1xTx78Vx8&feature=youtu.be" target=_blank>
 <img src="/images/lhermitage/lhermitagelab2.jpg" alt="" width="600" height="auto">
 </a>
-<br><p style="font-size:20px;"><a href="#/4"> [retour à "Deux lieux..."] </a></p>
+
+
 
 {{% /section %}}
 
