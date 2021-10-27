@@ -9,7 +9,7 @@ theme = "reveal-hugo"
 # uglyURLs = true
 
 [author]
-name = "Josh Dzielak"
+name = "Association Tedua"
 
 # currently only the unsafe mode for goldmark is supported
 [markup.goldmark.renderer]
